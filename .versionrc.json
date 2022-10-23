@@ -1,0 +1,43 @@
+{
+  "types": [
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "build",
+      "section": "Build"
+    },
+    {
+      "type": "chore",
+      "hidden": true
+    },
+    {
+      "type": "docs",
+      "hidden": true
+    },
+    {
+      "type": "style",
+      "hidden": true
+    },
+    {
+      "type": "refactor",
+      "hidden": true
+    },
+    {
+      "type": "perf",
+      "hidden": true
+    },
+    {
+      "type": "test",
+      "hidden": true
+    }
+  ],
+  "issueUrlFormat": "https://github.com/zkript-apps/ppbms-v2/issues/{{id}}",
+  "commitUrlFormat": "https://github.com/zkript-apps/ppbms-v2/commits{{hash}}",
+  "compareUrlFormat": "https://github.com/zkript-apps/ppbms-v2/compare/{{previousTag}}...{{currentTag}}"
+}
